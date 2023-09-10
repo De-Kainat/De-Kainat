@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="de-kainat" /> </p>
 
+- 🎓 I'm a young **post-grad**
+  
 - 🔭 I’m currently working as **Instructor Computer Science**
 
 - 👯 I’m looking to collaborate on **Research Writing on Machine Learning, Deep Leaning and Image Classification**
