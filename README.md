@@ -1,7 +1,7 @@
 ![logo](https://github.com/de-kainat/de-kainat/blob/main/GitHub%20Bannar.png)
 <h1 align="center">Hi 👋, I'm Kainat Fareed</h1>
 <h3 align="center">A passionate Computer Scientist, Post-Graduated Student, Researcher and frontend developer from Pakistan</h3>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH8p0MrvS0XDEFx1oTJj1VaTEPJTpBQacyQ&usqp=CAU" alt="gif Image" width="500" align="right">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH8p0MrvS0XDEFx1oTJj1VaTEPJTpBQacyQ&usqp=CAU" alt="gif Image" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="de-kainat" /> </p>
 
