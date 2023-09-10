@@ -1,7 +1,7 @@
 ![logo](https://github.com/de-kainat/de-kainat/blob/main/GitHub%20Bannar.png)
 <h1 align="center">Hi 👋, I'm Kainat Fareed</h1>
-<h3 align="center">A passionate Computer Scientist, Post-Graduated Student, Researcher and frontend developer from Pakistan</h3>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH8p0MrvS0XDEFx1oTJj1VaTEPJTpBQacyQ&usqp=CAU" alt="gif Image" width="400" align="right">
+<h3 align="center">A young-funny 🤓 Computer Scientist, Programmer by day and dreamer by night 🤩, Researcher and frontend developer from Pakistan</h3>
+ <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH8p0MrvS0XDEFx1oTJj1VaTEPJTpBQacyQ&usqp=CAU](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)" alt="gif Image" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="de-kainat" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Research Writing on Machine Learning, Deep Leaning and Image Classification**
 
-- ⚡ Fun fact **I am funny 😉**
+- ⚡ Fun fact **Hot chocolate over coffee ☕🍫😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
