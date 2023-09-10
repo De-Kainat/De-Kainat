@@ -1,6 +1,6 @@
 ![logo](https://github.com/de-kainat/de-kainat/blob/main/GitHub%20Bannar.png)
 <h1 align="center">Hi 👋, I'm Kainat Fareed</h1>
-<h3 align="center">A young-funny 🤓 Computer Scientist, Programmer by day and dreamer by night 🤩 </h3>
+<h3 align="center">A young-funny 🤓 Computer Scientist, Programmer by day and dreamer by night 🤩</h3>
  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="gif Image" width="350" height="250" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="de-kainat" /> </p>
