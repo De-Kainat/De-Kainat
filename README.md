@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="de-kainat" /> </p>
 
-- 🎓 Young **post-grad | Researcher** 👩‍🎓😎
+- 🎓 Young **post-grad Researcher| Frontend Developer** 👩‍🎓😎
   
 - 🔭 I’m currently working as **Instructor Computer Science | Aspiring Team Frontend Developer 🚀**
 
